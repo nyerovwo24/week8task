@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-color{
+  background-color: coral;
+  border-radius: 5%;
+  width: 350px;
+  height: 450px;
+  margin: 8px;
+  
+}
+section{
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+p {
+margin: 0;
+padding: 0;
+}
